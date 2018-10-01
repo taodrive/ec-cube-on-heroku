@@ -5081,7 +5081,8 @@
     "prefer-lowest": false,
     "platform": {
         "php": ">=5.3.9",
-        "ext-mbstring": "*"
+        "ext-mbstring": "*",
+        "ext-redis": "*"
     },
     "platform-dev": [],
     "platform-overrides": {
