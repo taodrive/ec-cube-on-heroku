@@ -12,7 +12,7 @@ Heroku上で稼働させるためにカスタマイズしたEC-Cubeです。バ�
 
 |項目|値|備考|
 |:--|:--|:--|
-|ENV|`production`|初回インストール時は`production`に変更ください|
+|ENV|`production`|初回インストール時は`dev`から`production`に変更ください|
 |DATABASE_SERVER_VERSION|`9.6`||
 |ECCUBE_ADMIN_USER|`admin`|インストール時に適宜変更ください|
 |ECCUBE_ADMIN_PASS|`password`|インストール時に適宜変更ください|
