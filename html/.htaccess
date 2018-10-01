@@ -21,3 +21,5 @@ allow from all
     RewriteCond %{REQUEST_FILENAME} !^(.*)\.(gif|png|jpe?g|css|ico|js|svg)$ [NC]
     RewriteRule ^(.*)$ index.php [QSA,L]
 </IfModule>
+
+SetEnvIf X-Forwarded-Proto ^https$ HTTPS=on
