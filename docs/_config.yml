@@ -9,7 +9,7 @@
 title: EC-CUBE on Heroku
 email: takahiro-yonei@taodrive.com
 description:
-baseurl: "https://takahiro-yonei.github.io/ec-cube-on-heroku"
+baseurl: "https://taodrive.github.io/ec-cube-on-heroku"
 
 # Build settings
 markdown: kramdown
