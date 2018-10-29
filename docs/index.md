@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# EC-CUBE 3.x on Heroku
+# EC-CUBE on Heroku
 
-Heroku上で稼働させるためにカスタマイズしたEC-Cubeです。バージョンは 3.0.16 を使っております。
+Heroku上で稼働させるためにカスタマイズしたEC-CUBEです。バージョンは 3.0.16 を使っております。
 
 国産、国内シェアNo.1のECパッケージであるEC-CUBEをHerokuに載せることで、ECサイトを素早く構築することができます。
 
