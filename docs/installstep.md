@@ -10,7 +10,7 @@ permalink: /installstep/
 
 以下のHeroku Deployボタンをクリックしてください。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/takahiro-yonei/ec-cube-on-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Taodrive/ec-cube-on-heroku)
 
 ### ②
 
