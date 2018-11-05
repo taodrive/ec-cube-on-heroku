@@ -14,8 +14,8 @@ Heroku上で稼働させるためにカスタマイズしたEC-Cubeです。バ�
 |:--|:--|:--|
 |ENV|`production`|初回インストール時は`dev`から`production`に変更ください|
 |DATABASE_SERVER_VERSION|`9.6`||
-|ECCUBE_ADMIN_USER|`admin`|インストール時に適宜変更ください|
-|ECCUBE_ADMIN_PASS|`password`|インストール時に適宜変更ください|
+|ADMIN_USER|`admin`|インストール時に適宜変更ください|
+|ADMIN_PASS|`password`|インストール時に適宜変更ください|
 |ECCUBE_INSTALL|`0`|(固定値)|
 
 ### インストール後処理
@@ -24,7 +24,7 @@ Heroku上で稼働させるためにカスタマイズしたEC-Cubeです。バ�
 
 (アプリケーション管理画面にて、"Settings" -> "Reveal Config Vars"をクリックすると、環境変数を表示できます)
 
-![heroku_setting_configvars](https://user-images.githubusercontent.com/863990/41895099-0ca64cbe-795c-11e8-93b5-b4f105f28653.png)
+![heroku_setting_configvars](https://user-images.githubusercontent.com/863990/47992749-0a76b900-e131-11e8-9774-7f8339b16cca.png)
 
 ## 使用するAddon
 
