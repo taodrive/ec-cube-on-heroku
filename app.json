@@ -27,11 +27,11 @@
             "description": "Secret key for login password.",
             "generator": "secret"
         },
-        "ECCUBE_ADMIN_USER": {
+        "ADMIN_USER": {
             "description": "The login id of admin user.",
             "value": "admin"
         },
-        "ECCUBE_ADMIN_PASS": {
+        "ADMIN_PASS": {
             "description": "The password of admin user.",
             "value": "password"
         },
