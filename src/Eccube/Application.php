@@ -429,7 +429,7 @@ class Application extends ApplicationTrait
 
         // プラグインのmetadata定義を合わせて行う.
         $pluginConfigs = array();
-        // $pluginConfigs = $this->getPluginConfigAll();
+        $pluginConfigs = $this->getPluginConfigAll();
         $ormMappings = array();
         $ormMappings[] = array(
             'type' => 'yml',
